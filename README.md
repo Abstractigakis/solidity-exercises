@@ -1,1 +1,3 @@
 # solidity-exercises
+
+practicing solidity
